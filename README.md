@@ -8,10 +8,6 @@ This project is a dynamic blog and course platform designed for SciAstra, provid
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
-5. [Database Setup](#database-setup)
-6. [Usage](#usage)
-7. [Folder Structure](#folder-structure)
-8. [License](#license)
 
 ## Project Overview
 
